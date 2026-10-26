@@ -4,6 +4,8 @@ A modern frontend for a sports betting and online casino platform, designed to d
 
 This project is built with React and follows a clean, scalable component-based structure to support a responsive and high-converting betting experience.
 
+
+
 ## Design Reference
 
 - Figma Design: https://www.figma.com/design/j0NZdHaQC9iHOuFKS9ltfS/Desktop-version--Copy-?node-id=0-1&p=f&t=azIG0SeYOoEfbGCS-0
