@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+/* .casino {
+    background: url('http://127.0.0.1:5000/bg/bg_casino.webp');
+}
+
+.live-casino {
+    background: url('http://127.0.0.1:5000/bg/livecasino_bg.jpg');
+}
+
+.vip-casino {
+    background: url('http://127.0.0.1:5000/bg/bg_casino.webp');
+} */
+
+main {
+    background-color: #0C1221;
+}
+
+
+* {
+    font-family: "Roboto", sans-serif !important;
+}

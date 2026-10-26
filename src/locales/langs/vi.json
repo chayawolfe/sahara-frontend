@@ -1,0 +1,40 @@
+{
+  "demo": {
+    "title": "French"
+  },
+  "header": {
+    "sportsLive": "Paris + Live",
+    "casino": "Jeux",
+    "vip_casino": "Casino Vip",
+    "live_casino": "Casino en direct",
+    "virtual": "Virtuel",
+    "upgaming": "Upgaming",
+    "lottery": "Loteries",
+    "tournament": "Tournois",
+    "racing": "Courses",
+    "esports": "E-Sports",
+    "login": "Se connecter",
+    "register": "S'inscrire"
+  },
+  "login": {
+    "email_username": "E-mail/Nom d'utilisateur",
+    "password": "Mot de passe",
+    "forgot_faq": "Mot de passe oublié?",
+    "account_faq": "Vous n'avez pas de compte ?"
+  },
+  "register": {
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "username": "Nom d'utilisateur",
+    "email": "E-mail",
+    "confirm_password": "Confirmez le mot de passe",
+    "nation": "Nation",
+    "phonenumber": "Numéro de téléphone",
+    "accept_content": "J'ai pris connaissance et j'accepte les conditions d'utilisation"
+  },
+  "reset": {
+    "reset_title": "Réinitialiser le mot de passe",
+    "explain": "Saisissez l'adresse email utilisée lors de l'inscription, afin de recevoir le lien pour modifier votre mot de passe",
+    "reset": "Réinitialiser"
+  }
+}
